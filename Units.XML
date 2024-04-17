@@ -512,14 +512,14 @@ Conveniently located near L train at Lorimer and right next to McCarren Park.</d
     <status>Vacant</status>
     <apartment_type>single-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3300</price>
+    <price>2900</price>
     <featured>no</featured>
     <rental_term>12 months</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>3</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1.5</bathrooms>
-    <availableOn>Dec-13-2022</availableOn>
+    <availableOn>May-01-2024</availableOn>
     <description>Myspace Exclusive!
 Quiet tree - lined street in Ridgewood!
 You are minutes away from your local pierogi shop, grocery store, and plenty of family-style restaurants, bars, and cafe's.
@@ -897,6 +897,51 @@ Email us to schedule a showing</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/2007_638385923454795133.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="13" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="13460" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-2L-brooklyn-NY-11231-13460">
+  <location>
+    <address>63 3rd place</address>
+    <apartment>2L</apartment>
+    <city>brooklyn</city>
+    <state>NY</state>
+    <zipcode>11231</zipcode>
+    <neighborhood>Carroll Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Vacant</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Mar-15-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Jack</owner_company_name>
+    <amenities>
+      <pets />
+      <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="12919" url="https://myspacenyc.cazamio.com/apartments/104-Graham-Ave-Unit-3L-Brooklyn-NY-11206-12919">
   <location>
     <address>104 Graham Ave</address>
@@ -963,51 +1008,6 @@ Now 1 Month free! Don''t miss out!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301328036293910.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301328049660906.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
-</property>
-<property type="rental" status="active" id="13460" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-2L-brooklyn-NY-11231-13460">
-  <location>
-    <address>63 3rd place</address>
-    <apartment>2L</apartment>
-    <city>brooklyn</city>
-    <state>NY</state>
-    <zipcode>11231</zipcode>
-    <neighborhood>Carroll Gardens</neighborhood>
-  </location>
-  <details>
-    <status>Vacant</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>5500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Mar-15-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Jack</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
 </property>
 <property type="rental" status="active" id="2047" url="https://myspacenyc.cazamio.com/apartments/754-Grand-Street-Unit-1B-Brooklyn-NY-11211-2047">
   <location>
