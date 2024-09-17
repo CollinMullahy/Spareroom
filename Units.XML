@@ -12175,55 +12175,6 @@ Elevator access</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1996_638572931660454129.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="19538" url="https://myspacenyc.cazamio.com/apartments/129-Bleecker-Street-Unit-1R-Brooklyn-NY-11221-19538">
-  <location>
-    <address>129 Bleecker Street</address>
-    <apartment>1R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2750</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2024</availableOn>
-    <description>Gorgeous spacious 2 bedroom 1 bath apartment, located in the prime Bushwick area. Conveniently located close to the L/J/Z/M train lines and various bus lines for a fast and easy commute. Steps away from many bars restaurants cafe and many shops, The building is clean quiet well maintained with a great super on premises,
-
-The apartment features, newly renovated, hardwood floors, high ceiling, large windows with lots of natural light, 2 huge bedrooms with lots of closet space, gorgeous kitchen with stainless steel appliances, nice tiled full bath, pet friendly. Balcony and much more. A MUST SEE!
-
-For just $2750 a month, with no broker fee</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>TopCare</owner_company_name>
-    <amenities>
-      <pets>Small pets allowed</pets>
-      <other>Hardwood Floors</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="19539" url="https://myspacenyc.cazamio.com/apartments/802-Evergreen-Avenue-Unit-1-Brooklyn-NY-11207-19539">
   <location>
     <address>802 Evergreen Avenue</address>
@@ -12237,7 +12188,7 @@ For just $2750 a month, with no broker fee</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4200</price>
+    <price>3500</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
