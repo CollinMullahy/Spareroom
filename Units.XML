@@ -9413,6 +9413,65 @@ Contact me today to schedule a showing!</description>
       </agents>
   <media />
 </property>
+<property type="rental" status="active" id="20842" url="https://myspacenyc.cazamio.com/apartments/489-Chauncey-Street-Unit-1R-Brooklyn-NY-11233-20842">
+  <location>
+    <address>489 Chauncey Street</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Bedford Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>duplex</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3300</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-01-2024</availableOn>
+    <description>Stunning 2-Bedroom Duplex with Private Backyard Access
+
+Two bedrooms on the upper level, one on the lower level
+Gym and bike storage available
+
+Apartment Highlights:
+Hardwood floors throughout
+Contemporary kitchen with brand-new stainless steel appliances
+Includes dishwasher and microwave
+Oversized windows with tons of natural light
+Spacious bedrooms, each with its own closet
+1.5 bathrooms
+Private backyard
+Access to a rooftop deck with breathtaking views
+Fantastic Location: Close to cafes, restaurants, shops, bars, and vibrant nightlife.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>YHT</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Private Outdoor Space</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="20459" url="https://myspacenyc.cazamio.com/apartments/1620-New-York-Avenue-Unit-6f-Brooklyn-NY-11210-20459">
   <location>
     <address>1620 New York Avenue</address>
