@@ -3338,10 +3338,10 @@ Cats welcome</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1997_638264092235938362.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="21207" url="https://myspacenyc.cazamio.com/apartments/-Unit-4L-Brooklyn-NY-11231-21207">
+<property type="rental" status="active" id="21207" url="https://myspacenyc.cazamio.com/apartments/61-3rd-Place-Unit-4R-Brooklyn-NY-11231-21207">
   <location>
-    <address />
-    <apartment>4L</apartment>
+    <address>61 3rd Place</address>
+    <apartment>4R</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11231</zipcode>
