@@ -9212,67 +9212,6 @@ Elevator access</description>
   </agents>
   <media />
 </property>
-<property type="rental" status="active" id="21435" url="https://myspacenyc.cazamio.com/apartments/585-Franklin-Avenue-Unit-4-Brooklyn-NY-11238-21435">
-  <location>
-    <address>585 Franklin Avenue</address>
-    <apartment>4</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-    <neighborhood>Crown Heights</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4150</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>4</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
-    <availableOn>Nov-08-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>TopCare</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-      <other>Hardwood Floors, Washer/Dryer In Unit</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559050229020.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A05Z&amp;sr=b&amp;sp=r&amp;sig=F9dWpk5EzQNQY2FE2xPWp1QQ1lTRHIP925%2FMpVSgpC4%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559047612669.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=cbrLd2tfuTsIbzdQxcdRO4FLRPGtGibseTSaxjVmmJE%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048366566.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=2afbcsYC2NT682DeW%2BMAm4yHKip18mAthELKnn45EKk%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559049708160.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=XkR%2FiZ%2Fn4eM4Zr%2BZxtFQZexSSH%2FXIlTmc3Df9%2Fr%2FTHY%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048632793.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=RiDdHUEXNKwZ75TJ4Xtj4kT4ioMSHdynGkOuvc0qLfw%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559049328754.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=h6hx%2BDQQ8qtABb5enQjpvdWGTQvHC8VrZw%2B%2BpfW4%2BRI%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559051979400.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A05Z&amp;sr=b&amp;sp=r&amp;sig=1Jh0sI1%2BGDuZkP4oSQb6qmBoLWGUtQe0%2F4UsIL7EFs0%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048591043.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=Em57fNXMjZNAUqMxHKYuF3tizXQ%2BWKzeRPYXnigEnRg%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559047703405.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=DKXs0eInd3KjREmE0YbkmlQ9rkLrzRguwzKK5M8KEsg%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048710869.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=aDq4%2Fd1rpyywjUVqqRa%2BD36Lc5zMUTCaHesvueTgxvo%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048317080.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=gGS7shTNKmo0bj8KCYdO2HikbepcmCqPE1mQPvqC7ug%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559048270907.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=%2FK7UAzpMdaMu%2B8mx7n0oeRUaqdT97rA9WNqaglEp9Xo%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559047573854.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A04Z&amp;sr=b&amp;sp=r&amp;sig=03UwvlbwnHdPwAG19vODDfwjzE4Jr%2F6jfLmdGRHqAbM%3D" position="12" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559052583916.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A05Z&amp;sr=b&amp;sp=r&amp;sig=f9wA6qa1ylXYA7oeNpQBGAeVhy7kR3pPyNhkR5Yf1l8%3D" position="13" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638675559050102302.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A45%3A05Z&amp;sr=b&amp;sp=r&amp;sig=NNg4rgDS3GHVHToevYxDgjz6Xh765gZ7LnB74tiaIvA%3D" position="14" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="20064" url="https://myspacenyc.cazamio.com/apartments/74-33-64th-Place-Unit-2-Queens-NY-11385-20064">
   <location>
     <address>74-33 64th Place</address>
