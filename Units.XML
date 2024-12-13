@@ -2692,6 +2692,50 @@ Don?t miss out on this mix of modern amenities and classic charm in one of Brook
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528933725801.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=CrdFPxI1Oerm8vYHc8fC9XNFruY7gGbpmo%2BCNpprQPo%3D" position="5" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="30408" url="https://myspacenyc.cazamio.com/apartments/171-Bay-17th-St-Unit-D3-Brooklyn-NY-11214-30408">
+  <location>
+    <address>171 Bay 17th St</address>
+    <apartment>D3</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11214</zipcode>
+    <neighborhood>Bensonhurst</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>2100</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jan-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>nklev</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="20812" url="https://myspacenyc.cazamio.com/apartments/137-Prospect-Avenue-Unit-1a-Brooklyn-NY-11215-20812">
   <location>
     <address>137 Prospect Avenue</address>
