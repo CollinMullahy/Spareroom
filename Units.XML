@@ -2629,6 +2629,57 @@ Guarantors Accepted!</description>
       </agents>
   <media />
 </property>
+<property type="rental" status="active" id="20950" url="https://myspacenyc.cazamio.com/apartments/1198-Putnam-Avenue-Unit-3L-Brooklyn-NY-11221-20950">
+  <location>
+    <address>1198 Putnam Avenue</address>
+    <apartment>3L</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2900</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Dec-01-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CS1198</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="f7065d53-c262-4614-b7dc-4acab04ef17f">
+      <company>MySpace NYC</company>
+      <email>contessa.stuto@myspacenyc.com</email>
+      <lead_email>contessa.stuto@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="21336" url="https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-2E-Queens-NY-11103-21336">
   <location>
     <address>31-19 37th Street</address>
