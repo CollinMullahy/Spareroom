@@ -7859,6 +7859,50 @@ First; Security NO FEE!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638718739152140108.jpeg?sv=2024-11-04&amp;se=2027-01-07T19%3A11%3A55Z&amp;sr=b&amp;sp=r&amp;sig=S0RMRdk9uaDrK2LMHB5TFZ8C5ar02TUxuVsTRszmMwk%3D" position="10" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="30908" url="https://myspacenyc.cazamio.com/apartments/33-Montrose-Avenue-Unit-2L-Brooklyn-NY-11206-30908">
+  <location>
+    <address>33 Montrose Avenue</address>
+    <apartment>2L</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Southside</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>3500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jan-15-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>PSSmgmt</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="30481" url="https://myspacenyc.cazamio.com/apartments/108-Cooper-St-Unit-1-Brooklyn-NY-11207-30481">
   <location>
     <address>108 Cooper St</address>
