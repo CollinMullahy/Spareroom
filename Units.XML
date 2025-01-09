@@ -1695,7 +1695,7 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3000</price>
+    <price>2650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -1703,11 +1703,30 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Feb-01-2025</availableOn>
-    <description />
+    <description>Bright; Modern Apartment in a Charming Stuyvesant Heights Block ? Just Minutes to Manhattan!
+
+Welcome to your new home in one of Brooklyn's most desirable neighborhoods! This beautifully updated apartment blends classic charm with modern conveniences, offering a stylish living space on a serene, tree-lined street in Stuyvesant Heights. Perfectly situated just minutes from Manhattan, this apartment boasts:
+
+Exposed Brick: Adding character and warmth to your living space.
+High Ceilings: Creating a spacious and airy atmosphere.
+Hardwood Floors: Elegant, durable, and timeless.
+Video Intercom: Added peace of mind and security.
+Natural Light in the Living Area: Sun-drenched, bright, and welcoming.
+Eat-In Kitchen: Perfect for meals and gatherings with a view.
+Stainless Steel Appliances: Sleek, modern, and ready for your culinary adventures.
+Dishwasher: For effortless clean-up after meals.
+Gas Stove: Ideal for cooking enthusiasts.
+Central Air: Stay comfortable year-round, no matter the weather.
+Stone Countertops: Stylish and easy to maintain.
+Convenient Location:
+
+Minutes from public transportation, including Utica Av (A, C) and Gates Av (J) subway stations, making your commute a breeze.
+Don?t miss out on the opportunity to live in this vibrant neighborhood, with a unique mix of history, culture, and modern amenities right outside your door. Schedule a showing today!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>wmm</owner_company_name>
     <amenities>
       <pets />
+      <other>Dishwasher, A/C, Intercom system, Hardwood Floors, Granite counter tops</other>
     </amenities>
   </details>
 <agents>
@@ -7915,14 +7934,14 @@ First; Security NO FEE!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638718739152140108.jpeg?sv=2024-11-04&amp;se=2027-01-07T19%3A11%3A55Z&amp;sr=b&amp;sp=r&amp;sig=S0RMRdk9uaDrK2LMHB5TFZ8C5ar02TUxuVsTRszmMwk%3D" position="10" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="30908" url="https://myspacenyc.cazamio.com/apartments/33-Montrose-Avenue-Unit-2L-Brooklyn-NY-11206-30908">
+<property type="rental" status="active" id="30917" url="https://myspacenyc.cazamio.com/apartments/33-Montrose-Ave-Unit-2L-Brooklyn-NY-11206-30917">
   <location>
-    <address>33 Montrose Avenue</address>
+    <address>33 Montrose Ave</address>
     <apartment>2L</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11206</zipcode>
-    <neighborhood>Southside</neighborhood>
+    <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
     <status>Active</status>
@@ -7932,15 +7951,23 @@ First; Security NO FEE!</description>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
+    <bedrooms>3</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Jan-15-2025</availableOn>
-    <description />
+    <availableOn>Jan-09-2025</availableOn>
+    <description>Sweetly renovated sunny and spacious 2.5 bed 1 bath in prime Williamsburg! Cool location close to the Lorimer L, Broadway G and JMZ trains. Building has a shared backyard. Reach out to view!
+
+Features:
+? Two bedrooms located on opposite ends of the apartment
+? Closets
+? Decorative fireplace
+? Hardwood floors throughout
+? Shared backyard
+? Laundry facilities next door through shared yard.</description>
     <propertyType>rental</propertyType>
     <owner_company_name>PSSmgmt</owner_company_name>
     <amenities>
-      <pets>All pets allowed</pets>
+      <pets />
     </amenities>
   </details>
 <agents>
@@ -7957,7 +7984,16 @@ First; Security NO FEE!</description>
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305047134.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=3nNF%2F3btc2G8ZYOO7cqv2vLQzKw5Y8lF1k6FG2hIgZ8%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305043847.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=O4D24JNoyvB7Bwg83HLlfSJjxECtxZWdcnhl4DZsgU4%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305022507.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=9zy7fmWIBErwXHZeU6UVrCPLau8nLnVGMrZU%2FKjUt7s%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305044807.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=h4KLDbEL0BIE%2Bo%2Bb2erGl%2F4CxC96wlkjSLoEcrIK%2FYA%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294304963489.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=PrlV4xguSrwjQXkozEBNVz8BnL6SRqfPQBlQCr3byUk%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305047000.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=HdmocIW29G3n4rfokyxLg%2BP1Omb4AYpuX5DJWCVv3WI%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305022528.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=oZKGh%2FvA45D%2FTK0Fyjd9EJQ6y1TmWGSUhX7jkjHSCUU%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638720294305002085.jpeg?sv=2024-11-04&amp;se=2027-01-09T14%3A23%3A50Z&amp;sr=b&amp;sp=r&amp;sig=OPuDfo3S8PkOgKvSjr0gxfdjzuNLze1IvEKOrTzyfA4%3D" position="7" description="" />
+  </media>
 </property>
 <property type="rental" status="active" id="30481" url="https://myspacenyc.cazamio.com/apartments/108-Cooper-St-Unit-1-Brooklyn-NY-11207-30481">
   <location>
