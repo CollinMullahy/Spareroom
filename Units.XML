@@ -6008,58 +6008,6 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638724847027034701.jpeg?sv=2024-11-04&amp;se=2027-01-14T20%3A51%3A42Z&amp;sr=b&amp;sp=r&amp;sig=dzyZWKx8hq8ip9kw9Wss6rBfHoPjVYmPybmmMD04Rgg%3D" position="14" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="30779" url="https://myspacenyc.cazamio.com/apartments/17-19-Madison-Street-Unit-3R-Queens-NY-11385-30779">
-  <location>
-    <address>17-19 Madison Street</address>
-    <apartment>3R</apartment>
-    <city>Queens</city>
-    <state>NY</state>
-    <zipcode>11385</zipcode>
-    <neighborhood>Flushing</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2900</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Feb-28-2025</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>M186</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714489194582440.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A08%3A39Z&amp;sr=b&amp;sp=r&amp;sig=3zBn5tu1ggsykIyrFlFR8jQ3T3iHPG5Lxx9au%2FkKybk%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714489712522203.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A09%3A31Z&amp;sr=b&amp;sp=r&amp;sig=QmyF6zs4CvxIXoTHCFu0VUkAyEy3Q2wVrLd2x%2B%2B6RDs%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490034584068.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A10%3A03Z&amp;sr=b&amp;sp=r&amp;sig=xS0vcvRlm9poxeeZKb6MYtOlPL%2BKDj5NZo4NQMucZSw%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490667256256.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A06Z&amp;sr=b&amp;sp=r&amp;sig=BCKCx3BFOdf3P8uRF88Ja77v1IFTD4LOe7pWNS9fkNE%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490952112090.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A35Z&amp;sr=b&amp;sp=r&amp;sig=ewl9E9ofjv1Dus7jNNBgkbLY09e0KyEX%2F0Uw97UyoXk%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714491191950741.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A59Z&amp;sr=b&amp;sp=r&amp;sig=IX3rXaDCR6UnwrpmpU5qPZV1IPIlTcB2l5jY0UKwyKA%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714491418032533.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Li15yncDkew4G%2FoyXtBG%2Fh7v8FRJBNo5Y%2FaL%2F%2FPAW7U%3D" position="6" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="30884" url="https://myspacenyc.cazamio.com/apartments/186-Wilson-Ave-Unit-3L-Brooklyn-NY-11237-30884">
   <location>
     <address>186 Wilson Ave</address>
@@ -6114,6 +6062,58 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638718739152044281.jpeg?sv=2024-11-04&amp;se=2027-01-07T19%3A11%3A55Z&amp;sr=b&amp;sp=r&amp;sig=%2B22JsufoXPvEcQWz7BCRV2jMYrtLDs%2FczdSjNo8h9kE%3D" position="6" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638718739152041198.jpeg?sv=2024-11-04&amp;se=2027-01-07T19%3A11%3A55Z&amp;sr=b&amp;sp=r&amp;sig=9tmLkpKWE6MJVUdwywWgsEtKlAdDVKAFY3fpOjfIUpA%3D" position="7" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638718739152348731.jpeg?sv=2024-11-04&amp;se=2027-01-07T19%3A11%3A55Z&amp;sr=b&amp;sp=r&amp;sig=8rZBpAydfngcT9HTfUyJDOC%2Biq3OnW4gxFl1nJ5jZfU%3D" position="4" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="30779" url="https://myspacenyc.cazamio.com/apartments/17-19-Madison-Street-Unit-3R-Queens-NY-11385-30779">
+  <location>
+    <address>17-19 Madison Street</address>
+    <apartment>3R</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+    <neighborhood>Flushing</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2900</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Feb-28-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>M186</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714489194582440.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A08%3A39Z&amp;sr=b&amp;sp=r&amp;sig=3zBn5tu1ggsykIyrFlFR8jQ3T3iHPG5Lxx9au%2FkKybk%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714489712522203.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A09%3A31Z&amp;sr=b&amp;sp=r&amp;sig=QmyF6zs4CvxIXoTHCFu0VUkAyEy3Q2wVrLd2x%2B%2B6RDs%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490034584068.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A10%3A03Z&amp;sr=b&amp;sp=r&amp;sig=xS0vcvRlm9poxeeZKb6MYtOlPL%2BKDj5NZo4NQMucZSw%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490667256256.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A06Z&amp;sr=b&amp;sp=r&amp;sig=BCKCx3BFOdf3P8uRF88Ja77v1IFTD4LOe7pWNS9fkNE%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714490952112090.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A35Z&amp;sr=b&amp;sp=r&amp;sig=ewl9E9ofjv1Dus7jNNBgkbLY09e0KyEX%2F0Uw97UyoXk%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714491191950741.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A11%3A59Z&amp;sr=b&amp;sp=r&amp;sig=IX3rXaDCR6UnwrpmpU5qPZV1IPIlTcB2l5jY0UKwyKA%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638714491418032533.jpeg?sv=2024-11-04&amp;se=2027-01-02T21%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Li15yncDkew4G%2FoyXtBG%2Fh7v8FRJBNo5Y%2FaL%2F%2FPAW7U%3D" position="6" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="21382" url="https://myspacenyc.cazamio.com/apartments/1471-Bushwick-Ave-Unit-2R-Brooklyn-NY-11207-21382">
@@ -6175,82 +6175,6 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638675564998553622.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A54%3A59Z&amp;sr=b&amp;sp=r&amp;sig=9io3xLCYI1Kn6cLage2aEi64snKSUnASHgVL%2FKg5Elw%3D" position="6" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638675565000545142.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A55%3A00Z&amp;sr=b&amp;sp=r&amp;sig=Yz3Iq6Ch%2BRQhmXhIQ3NsExE%2Bq8LWblsBmdTbLSDcuDI%3D" position="7" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638675564997671325.jpeg?sv=2024-11-04&amp;se=2026-11-18T19%3A54%3A59Z&amp;sr=b&amp;sp=r&amp;sig=o4QeRP6A0x%2Bovnkyiloiy7dSCHCF9wDBjRtSDgjU86c%3D" position="8" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="30533" url="https://myspacenyc.cazamio.com/apartments/116-Jefferson-St-Unit-3R-Brooklyn-NY-11206-30533">
-  <location>
-    <address>116 Jefferson St</address>
-    <apartment>3R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>5000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>5</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Feb-01-2025</availableOn>
-    <description>3 Bedrooms / 1 Bathroom
-Pet-Friendly (Upon Approval)
-Conveniently located near subway stations: Morgan Av(L), Central Av(M), Myrtle Av (J, M)
-2 Equal Size Full Bedrooms, 1 Queen Bedroom
-Windows in each room with closets
-Modern Kitchen
-Spacious Living Area
-Waterfall Bath Feature
-Prime Location on Jefferson Ave in the Heart of Bushwick
-Easy access to Myrtle JMZ subway, 15-20 minutes to Manhattan
-Abundant Shopping, Groceries, Restaurants, Bars, and Entertainment options nearby
-
-HIGHLIGHTS
-Dishwasher
-Central Air
-Hardwood Floors
-
-Feel free to incorporate this information into your company's database. If you need any further assistance, please let me know!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>M186</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031572914291.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031583720841.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031595709602.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031606260531.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031619883485.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031630026011.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031646066311.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031655908051.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031667184916.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031677097493.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031687566427.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031698969454.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031710703252.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="20771" url="https://myspacenyc.cazamio.com/apartments/1503-Jefferson-Ave-Unit-4a-Brooklyn-NY-11237-20771">
@@ -7739,6 +7663,57 @@ AMENITIES
   </agents>
   <media />
 </property>
+<property type="rental" status="active" id="30390" url="https://myspacenyc.cazamio.com/apartments/299-Saratoga-Avenue-Unit-2B-Brooklyn-NY-11233-30390">
+  <location>
+    <address>299 Saratoga Avenue</address>
+    <apartment>2B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Ocean Hill</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>2700</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Feb-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSBRWY</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="f7065d53-c262-4614-b7dc-4acab04ef17f">
+      <company>MySpace NYC</company>
+      <email>contessa.stuto@myspacenyc.com</email>
+      <lead_email>contessa.stuto@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="30346" url="https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346">
   <location>
     <address>3405 Farragut Road</address>
@@ -7975,57 +7950,6 @@ AMENITIES
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
     <availableOn>Dec-11-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>CSBRWY</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <agents>
-    <agent id="f7065d53-c262-4614-b7dc-4acab04ef17f">
-      <company>MySpace NYC</company>
-      <email>contessa.stuto@myspacenyc.com</email>
-      <lead_email>contessa.stuto@myspacenyc.com</lead_email>
-    </agent>
-  </agents>
-  <media />
-</property>
-<property type="rental" status="active" id="30390" url="https://myspacenyc.cazamio.com/apartments/299-Saratoga-Avenue-Unit-2B-Brooklyn-NY-11233-30390">
-  <location>
-    <address>299 Saratoga Avenue</address>
-    <apartment>2B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-    <neighborhood>Ocean Hill</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
-    <price>2700</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Feb-01-2025</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>CSBRWY</owner_company_name>
