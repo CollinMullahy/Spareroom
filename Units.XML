@@ -7461,7 +7461,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7512,7 +7512,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3495</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7563,7 +7563,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2750</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7625,7 +7625,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7676,7 +7676,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7727,7 +7727,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2600</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7778,7 +7778,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2750</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -7931,27 +7931,27 @@ To schedule a private viewing; for more details contact anytime.</description>
       </agents>
   <media />
 </property>
-<property type="rental" status="active" id="31586" url="https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586">
+<property type="rental" status="active" id="31417" url="https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417">
   <location>
-    <address>821 Madison Street</address>
+    <address>397 Herkimer Street</address>
     <apartment>3</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Ocean Hill</neighborhood>
+    <zipcode>11213</zipcode>
+    <neighborhood>Bedford-Stuyvesant</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3800</price>
+    <price>3700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>4</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
-    <availableOn>Feb-05-2025</availableOn>
+    <availableOn>Feb-02-2025</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>TopCare</owner_company_name>
@@ -7976,27 +7976,27 @@ To schedule a private viewing; for more details contact anytime.</description>
       </agents>
   <media />
 </property>
-<property type="rental" status="active" id="31417" url="https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417">
+<property type="rental" status="active" id="31586" url="https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586">
   <location>
-    <address>397 Herkimer Street</address>
+    <address>821 Madison Street</address>
     <apartment>3</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11213</zipcode>
-    <neighborhood>Bedford-Stuyvesant</neighborhood>
+    <zipcode>11221</zipcode>
+    <neighborhood>Ocean Hill</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3700</price>
+    <price>3800</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>4</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
-    <availableOn>Feb-02-2025</availableOn>
+    <availableOn>Feb-05-2025</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>TopCare</owner_company_name>
