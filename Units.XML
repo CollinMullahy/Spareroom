@@ -2466,7 +2466,7 @@ Parking (by availability)</description>
     <status>Active</status>
     <apartment_type>duplex</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2700</price>
+    <price>2800</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -5034,51 +5034,6 @@ This boutique residence is nestled along the vibrant East River Waterfront, offe
     <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/891/large/9.jpg?1663169360" position="9" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="1813" url="https://myspacenyc.cazamio.com/apartments/123-Linden-Blvd-Unit-22A-Brooklyn-NY-11226-1813">
-  <location>
-    <address>123 Linden Blvd</address>
-    <apartment>22A</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11226</zipcode>
-    <neighborhood>Prospect Lefferts Gardens</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4725</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-31-2024</availableOn>
-    <description>Virtual tours available!Do not miss out on this 2 bed / 1 bath apartment in Brooklyn's up and coming neighborhood Prospect Lefferts Gardens! People forget that Brooklyn is the biggest borough and offers some of the best, historic architecture. Enjoy the neighborhood's easy access to the B,Q,2,3 lines, a number of bus lines, and short walk to Prospect Park. Live within steps to juice bars, grocery stores, restaurants, coffee shops, bars, pharmacies, banks, local bakeries, and more to explore. Brooklyn Greenery, MIdwood Flats, Irv's, Bluebird, Blessings, and Food Sermon are just a couple of the many options to check out in this vibrant neighborhood.Easy commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>loom</owner_company_name>
-    <amenities>
-      <pets>No pets, Cats only, Small pets allowed, All pets allowed, Pet Fee, Case by Case</pets>
-      <other>Balcony/Terrace, Central A/C, Washer/Dryer In Unit</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="2430" url="https://myspacenyc.cazamio.com/apartments/123-Linden-Blvd-Unit-47-Brooklyn-NY-11226-2430">
   <location>
     <address>123 Linden Blvd</address>
@@ -5134,6 +5089,51 @@ This boutique residence is nestled along the vibrant East River Waterfront, offe
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248314439162855.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248314441215426.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
+</property>
+<property type="rental" status="active" id="1813" url="https://myspacenyc.cazamio.com/apartments/123-Linden-Blvd-Unit-22A-Brooklyn-NY-11226-1813">
+  <location>
+    <address>123 Linden Blvd</address>
+    <apartment>22A</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+    <neighborhood>Prospect Lefferts Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4725</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-31-2024</availableOn>
+    <description>Virtual tours available!Do not miss out on this 2 bed / 1 bath apartment in Brooklyn's up and coming neighborhood Prospect Lefferts Gardens! People forget that Brooklyn is the biggest borough and offers some of the best, historic architecture. Enjoy the neighborhood's easy access to the B,Q,2,3 lines, a number of bus lines, and short walk to Prospect Park. Live within steps to juice bars, grocery stores, restaurants, coffee shops, bars, pharmacies, banks, local bakeries, and more to explore. Brooklyn Greenery, MIdwood Flats, Irv's, Bluebird, Blessings, and Food Sermon are just a couple of the many options to check out in this vibrant neighborhood.Easy commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>loom</owner_company_name>
+    <amenities>
+      <pets>No pets, Cats only, Small pets allowed, All pets allowed, Pet Fee, Case by Case</pets>
+      <other>Balcony/Terrace, Central A/C, Washer/Dryer In Unit</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 <property type="rental" status="active" id="2622" url="https://myspacenyc.cazamio.com/apartments/123-Linden-Blvd-Unit-59-Brooklyn-NY-11226-2622">
   <location>
@@ -6170,6 +6170,62 @@ AMENITIES
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-09/1996_638623810050996229.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Lv%2BIxUJUTyP1Pxcs8ql3Zg4fqa%2FytTK1vWfYUh7EOxA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="20571" url="https://myspacenyc.cazamio.com/apartments/252-Schenectady-Ave-Unit-1A-Brooklyn-NY-11213-20571">
+  <location>
+    <address>252 Schenectady Ave</address>
+    <apartment>1A</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11213</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2900</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-01-2024</availableOn>
+    <description>This 2 bedroom/ 1 bath apartment features modern finishes, stainless steel appliances, hardwood floors, and split A/C unit. Enjoy the convenience of laundry in the building.
+
+Conveniently located near the A/C/2/3/4 trains for easy commuting. Plenty of grocery stores, pharmacies, restaurants and more are located right nearby.
+
+Schedule your showing today!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Select</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065877995.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=zBV8rupT7GhykM6f2FXwgJw40HUwUi6LUBxITPIGNKI%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065854935.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=d8A7QirPKiWt1vtgpbObvVZ%2FnX5AmVc8RjQnCMXg5Q4%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065876038.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=HnWrLreBhHwGFmemm6L5M5%2FFb6bdC3qlY2u4T3VJ930%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065859514.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=vqRtdBqBtVeX77SxgKKK845OXuPNxocAj%2BNpREioKtc%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065822900.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=qCt4WFae4a5naw0%2F7lVNMlaqyzWa7pigjTSKU4Xudo0%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065741533.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=J9jyU%2FOjDoNtgm9MVT3jxM1zUpYbgpj3sHG3u0vNKfM%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721244065890971.jpeg?sv=2024-11-04&amp;se=2027-01-10T16%3A46%3A46Z&amp;sr=b&amp;sp=r&amp;sig=5iXfemDARTRitAyNV3tWLeGDeGKb33mYaxPWxvdKBXg%3D" position="6" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="31367" url="https://myspacenyc.cazamio.com/apartments/565-Saint-Johns-Place-Unit-4f-Brooklyn-NY-11238-31367">
   <location>
     <address>565 Saint Johns Place</address>
@@ -6458,7 +6514,7 @@ Schedule your tour today to secure this exceptional living space!</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4600</price>
+    <price>4575</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
