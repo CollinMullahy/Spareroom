@@ -4475,7 +4475,7 @@ Garage Parking</description>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Mar-06-2025</availableOn>
-    <description />
+    <description>Welcome home to this beautiful 2-bedroom apartment in the heart of Astoria. Featuring hardwood floors throughout, this residence offers a warm and inviting atmosphere. The modern kitchen is equipped with sleek stainless steel appliances, perfect for cooking and entertaining. Stay comfortable year-round with central AC, and enjoy the convenience of a doorman building providing security and concierge services. Located in one of Queens? most vibrant neighborhoods, you?ll have easy access to top restaurants, caf?s, parks, and public transportation. Don?t miss out on this fantastic opportunity to live in luxury and style!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>JMDG</owner_company_name>
     <amenities>
@@ -4496,6 +4496,14 @@ Garage Parking</description>
           </phone_numbers>
         </agent>
       </agents>
+  <agents>
+    <agent id="4762c9e9-1c0d-4a4f-8bae-641c3d2bc627">
+      <company>MySpace NYC</company>
+      <photo url="https://lh3.googleusercontent.com/a/ACg8ocJ0zvhqNO_0zk31g34QL39Ku59V00rxlwtNxRvyxNFRwE91AGs=s96-c" />
+      <email>william@myspacenyc.com</email>
+      <lead_email>william@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
   <media />
 </property>
 <property type="rental" status="active" id="30175" url="https://myspacenyc.cazamio.com/apartments/31-10-23rd-Street-Unit-5I-Queens-NY-11106-30175">
