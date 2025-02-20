@@ -4563,7 +4563,9 @@ Garage Parking</description>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
     <availableOn>Mar-31-2025</availableOn>
-    <description />
+    <description>Luxury 2-Bedroom, 2-Bath Apartment in Prime Astoria!
+
+Step into this stunning 2-bedroom, 2-bathroom apartment in the heart of Astoria, offering a perfect blend of modern comfort and convenience. Featuring hardwood floors throughout, this spacious home boasts a sleek kitchen with stainless steel appliances, ideal for cooking and entertaining. Enjoy the comfort of central AC and the convenience of a doorman building, ensuring security and concierge services. Step out onto your private balcony and take in the city views?perfect for relaxing or entertaining. Located in a vibrant neighborhood, you?ll be close to top restaurants, caf?s, parks, and easy subway access to Manhattan. Don't miss this exceptional home!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>JMDG</owner_company_name>
     <amenities>
@@ -4585,6 +4587,14 @@ Garage Parking</description>
           </phone_numbers>
         </agent>
       </agents>
+  <agents>
+    <agent id="4762c9e9-1c0d-4a4f-8bae-641c3d2bc627">
+      <company>MySpace NYC</company>
+      <photo url="https://lh3.googleusercontent.com/a/ACg8ocJ0zvhqNO_0zk31g34QL39Ku59V00rxlwtNxRvyxNFRwE91AGs=s96-c" />
+      <email>william@myspacenyc.com</email>
+      <lead_email>william@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
   <media />
 </property>
 <property type="rental" status="active" id="31830" url="https://myspacenyc.cazamio.com/apartments/31-10-23rd-Street-Unit-4H-Queens-NY-11106-31830">
@@ -4608,7 +4618,9 @@ Garage Parking</description>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
     <availableOn>May-01-2025</availableOn>
-    <description />
+    <description>Luxury 2-Bedroom, 2-Bath Apartment in Prime Astoria!
+
+Step into this stunning 2-bedroom, 2-bathroom apartment in the heart of Astoria, offering a perfect blend of modern comfort and convenience. Featuring hardwood floors throughout, this spacious home boasts a sleek kitchen with stainless steel appliances, ideal for cooking and entertaining. Enjoy the comfort of central AC and the convenience of a doorman building, ensuring security and concierge services. Located in a vibrant neighborhood, you?ll be close to top restaurants, caf?s, parks, and easy subway access to Manhattan. Don't miss this exceptional home!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>JMDG</owner_company_name>
     <amenities>
@@ -4630,6 +4642,14 @@ Garage Parking</description>
           </phone_numbers>
         </agent>
       </agents>
+  <agents>
+    <agent id="4762c9e9-1c0d-4a4f-8bae-641c3d2bc627">
+      <company>MySpace NYC</company>
+      <photo url="https://lh3.googleusercontent.com/a/ACg8ocJ0zvhqNO_0zk31g34QL39Ku59V00rxlwtNxRvyxNFRwE91AGs=s96-c" />
+      <email>william@myspacenyc.com</email>
+      <lead_email>william@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
   <media />
 </property>
 <property type="rental" status="active" id="30887" url="https://myspacenyc.cazamio.com/apartments/144-West-Street-Unit-701-Brooklyn-NY-11222-30887">
