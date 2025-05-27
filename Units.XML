@@ -190,7 +190,7 @@ Pets welcome</description>
     <utilities>No Utils Included</utilities>
     <bedrooms>3</bedrooms>
     <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
+    <bathrooms>1</bathrooms>
     <availableOn>Jun-01-2025</availableOn>
     <description>Beautiful 3-Bedroom, 2-Bath Apartment with Two Private Terraces!
 
@@ -1570,6 +1570,75 @@ Available now?message to set up a showing.</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638477050989153271.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638477051027283160.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="15" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638477051067333002.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="34216" url="https://myspacenyc.cazamio.com/apartments/20-Wilson-Ave-Unit-2R-Brooklyn-NY-11237-34216">
+  <location>
+    <address>20 Wilson Ave</address>
+    <apartment>2R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2850</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-01-2025</availableOn>
+    <description>2 Bed / 1 Bath ? 20 Wilson Ave #2R, Bushwick
+All pets welcome. Steps from the Morgan Av (L), Central Av (M), and Myrtle Av (J, M) trains.
+
+This bright and spacious 2-bedroom is right in the heart of Bushwick, close to everything Morgan Avenue has to offer. The layout features a large open living space and a sleek kitchen with stainless steel appliances. You'll find high ceilings, recessed lighting, hardwood floors throughout, and two roomy bedrooms with great natural light. A great spot with style, space, and convenience.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Dishwasher</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="d0e56a97-1207-423d-8c07-3ef98b21e305">
+      <company>MySpace NYC</company>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+      <phone_numbers>
+        <main>5183304809</main>
+        <cell>5188675309</cell>
+      </phone_numbers>
+    </agent>
+  </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693490235936.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A29Z&amp;sr=b&amp;sp=r&amp;sig=tholhntWoQCFfRdAKQA%2FVe76eeAjgafqNBtQ7nSYp%2B8%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693487493368.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=oL462UG2%2FzD%2BfWpt%2FmrhzPx9ApmXf87VRim8abKplWA%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693486998445.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=yl%2Fkfm%2Fn%2FmbXdxry4a%2FYpl11gs8rvcf4YVohrdV%2FdT4%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693486126766.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=KEwD4qSFmcsk%2BCPFPhihz0T7fvde10OxnF7ZNK7K3Cc%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693486548173.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=tuP5a%2F87LOHdGvibHRwTaGeMCYO09%2FRUJjr2k2lR2Ec%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693486502475.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=U6vyberrHmfozqw2czLLk7b8NDHSvnvWeRmDXS09AoM%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693486285515.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=l9b0psFCa8%2Fko8Xjkxoim4981NhuQpmoUWQfuXA7Y7M%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693487316756.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A28Z&amp;sr=b&amp;sp=r&amp;sig=Ru6Q0sVhjJCvEWcp4IVsEf%2FL%2BEA%2BoQNYp4%2Fe8zcdsVg%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638839693491613026.jpeg?sv=2025-05-05&amp;se=2027-05-27T19%3A02%3A29Z&amp;sr=b&amp;sp=r&amp;sig=0E39jwd84pflbrDq9BjKzhsQy4oud4HypKtQyaX8Zxo%3D" position="8" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="33855" url="https://myspacenyc.cazamio.com/apartments/16-25-Putnam-Ave-Unit-4G-Flushing-NY-11385-33855">
