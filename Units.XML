@@ -10608,33 +10608,160 @@ Surrounded by delis, bars, cafes, and more!</description>
       </agents>
   <media />
 </property>
-<property type="rental" status="active" id="18866" url="https://myspacenyc.cazamio.com/apartments/2553-Bedford-Avenue-Unit-2a-Brooklyn-NY-11226-18866">
+<property type="rental" status="active" id="35171" url="https://myspacenyc.cazamio.com/apartments/1520-Saint-Johns-Place-Unit-5-Brooklyn-NY-11213-35171">
   <location>
-    <address>2553 Bedford Avenue</address>
-    <apartment>2a</apartment>
+    <address>1520 Saint Johns Place</address>
+    <apartment>5</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11226</zipcode>
-    <neighborhood>Flatbush</neighborhood>
+    <zipcode>11213</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2700</price>
+    <price>3750</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jul-07-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSBRWY</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="35173" url="https://myspacenyc.cazamio.com/apartments/1588-Fulton-Street-Unit-2B-Brooklyn-NY-11213-35173">
+  <location>
+    <address>1588 Fulton Street</address>
+    <apartment>2B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11213</zipcode>
+    <neighborhood>Bedford-Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2850</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
+    <availableOn>Jul-07-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSBRWY</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="35174" url="https://myspacenyc.cazamio.com/apartments/1629-Brooklyn-Avenue-Unit-2B-Brooklyn-NY-11210-35174">
+  <location>
+    <address>1629 Brooklyn Avenue</address>
+    <apartment>2B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood>East Flatbush</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2650</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-07-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSBRWY</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="35175" url="https://myspacenyc.cazamio.com/apartments/1520-Saint-Johns-Place-Unit-1F-Brooklyn-NY-11213-35175">
+  <location>
+    <address>1520 Saint Johns Place</address>
+    <apartment>1F</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11213</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3350</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>3</bathrooms>
     <availableOn>Aug-01-2025</availableOn>
-    <description>Bright and Airy Two Bedroom Apartment in Prime Flatbush
-
-Flooded with natural light
-Generously sized bedrooms
-Recently renovated with modern finishes
-Central air conditioning</description>
+    <description />
     <propertyType>rental</propertyType>
     <owner_company_name>CSBRWY</owner_company_name>
     <amenities>
@@ -10813,7 +10940,7 @@ Close to transit, local eats, shops, and everything Flatbush has to offer.</desc
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2750</price>
+    <price>2695</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -11033,7 +11160,7 @@ Close to transit, local eats, shops, and everything Flatbush has to offer.</desc
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2800</price>
+    <price>2695</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
