@@ -2199,61 +2199,6 @@ Ready for a September 1st move-in ? come take a look!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882006528495944.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A24%3A12Z&amp;sr=b&amp;sp=r&amp;sig=vSVbk6WGPIXjdANr17IFwAktv4Gmx9k0VqOKMYYv9Jo%3D" position="6" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="35414" url="https://myspacenyc.cazamio.com/apartments/132-Graham-Ave-Unit-8-Brooklyn-NY-11206-35414">
-  <location>
-    <address>132 Graham Ave</address>
-    <apartment>8</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4300</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2025</availableOn>
-    <description>Spacious 3-Bedroom in Williamsburg at a Great Price!
-
-All three bedrooms are generously sized, each with large windows and ample closet space. The living room easily fits a sofa, TV, and dining table ? perfect for relaxing or hosting friends.
-
-Conveniently located near the L, G, and JMZ trains, this is a great find in one of Brooklyn?s most sought-after neighborhoods.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882012320989360.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A33%3A52Z&amp;sr=b&amp;sp=r&amp;sig=hnXHDGNIZUmcwB%2B9MooADxV0unLZdxUsea5a3OL4pnA%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882012320984207.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A33%3A52Z&amp;sr=b&amp;sp=r&amp;sig=2CIBk2YlxBiukkV5%2Bj9AKh3vyVj9FJQKVc8akNGy5hY%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882012321155208.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A33%3A52Z&amp;sr=b&amp;sp=r&amp;sig=t8RL%2FQ0J1Ti5uea2buGtPr2XJcgjR2TYSnZ4cbHADGI%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882012321077183.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A33%3A52Z&amp;sr=b&amp;sp=r&amp;sig=JTzbSddHvzriHK6THctUGRYLRbQiCWlpwFDOBIp3qVI%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638882012322324273.jpeg?sv=2025-05-05&amp;se=2027-07-15T18%3A33%3A52Z&amp;sr=b&amp;sp=r&amp;sig=FluL2enXYesJB%2F3Rhgoi6JUJFhgtRSTOiGMeioWTwks%3D" position="4" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="35416" url="https://myspacenyc.cazamio.com/apartments/146-Meserole-St-Unit-3C-Brooklyn-NY-11206-35416">
   <location>
     <address>146 Meserole St</address>
