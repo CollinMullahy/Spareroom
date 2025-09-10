@@ -8024,6 +8024,50 @@ Application fee applies. Contact us to schedule a tour!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/8515455b-be52-4141-8a40-4c35d33cf98b_638870814355884440.jpeg?sv=2025-05-05&amp;se=2027-07-02T19%3A30%3A35Z&amp;sr=b&amp;sp=r&amp;sig=hnNPaYImJtkIjdgIXhZRwTzjTuVn67ImY71R3DGeACo%3D" position="7" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="36784" url="https://myspacenyc.cazamio.com/apartments/11-Granite-Street-Unit-4F-Brooklyn-NY-11207-36784">
+  <location>
+    <address>11 Granite Street</address>
+    <apartment>4F</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3250</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-10-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>YHT</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="17483" url="https://myspacenyc.cazamio.com/apartments/26-25-4th-Street-Unit-302-Queens-NY-11102-17483">
   <location>
     <address>26-25 4th Street</address>
