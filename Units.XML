@@ -10434,6 +10434,51 @@ This incredible property offers unparalleled space, character, and convenience. 
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638942365581414684.jpeg?sv=2025-05-05&amp;se=2027-09-23T15%3A02%3A38Z&amp;sr=b&amp;sp=r&amp;sig=oKckDdY3PuFxIqinmiSwpHMbny5er2AXWURrl5yMb7M%3D" position="12" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="37053" url="https://myspacenyc.cazamio.com/apartments/848-Hart-Street-Unit-1R-Brooklyn-NY-11237-37053">
+  <location>
+    <address>848 Hart Street</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4475</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-23-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>KMRoeblingMgmt</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Hardwood Floors, Duplex, Backyard</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="36519" url="https://myspacenyc.cazamio.com/apartments/372-Kosciuszko-Street-Unit-212-Brooklyn-NY-11221-36519">
   <location>
     <address>372 Kosciuszko Street</address>
