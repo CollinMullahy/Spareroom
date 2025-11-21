@@ -6441,55 +6441,6 @@ Available 11/1</description>
     <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380826949736.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=cJdxF1up9aUvqatJfWTr97Ir9lvz%2FMD4SGT9Kt3gzdk%3D" />
   </media>
 </property>
-<property id="37365" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/647-Willoughby-Avenue-Unit-2B-Brooklyn-NY-11206-37365">
-  <location>
-    <address>647 Willoughby Avenue</address>
-    <apartment>2B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Bedford-Stuyvesant</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4300</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1.5</bathrooms>
-    <availableOn>Oct-22-2025</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>ParkMgt</owner_company_name>
-    <amenities>
-      <pets>Case by Case</pets>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384994147717.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=NE4qJWn26twTpbc9T5xME38bxqCf6zhA0OCQ4oyoyBk%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384991806791.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=iwyBzHIzIndPVk5TpdOU4PKcwbsN7NYVQCdjBU6SgZE%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993587112.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=Wo9UEiwJiCCJCs%2BTIakhJfOyIoIDNiryW%2F%2B86EyIflU%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993504387.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=sr3QzuYaTqUsnxYQ0Hwz8Il7w7oyjJpG1r35hoO1Orw%3D" />
-  </media>
-</property>
 <property id="37817" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-4B-Brooklyn-New-York-11211-37817">
   <location>
     <address>489 Grand Street</address>
