@@ -5164,56 +5164,6 @@ AMENITIES
       </agents>
   <media />
 </property>
-<property id="37817" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-4B-Brooklyn-New-York-11211-37817">
-  <location>
-    <address>489 Grand Street</address>
-    <apartment>4B</apartment>
-    <city>Brooklyn</city>
-    <state>New York</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4800</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Nov-10-2025</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>ParkMgt</owner_company_name>
-    <amenities>
-      <pets>Case by Case</pets>
-      <other>Dishwasher, Hardwood Floors, Stainless steel appliances, Washer/Dryer In Unit, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817801210.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=0bY8ccgLBPBUjTvC842%2F9RuTVlwrI2sivaTHTRcD2dM%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817600119.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=G30Bx1upuUdlQjXEyP8G8BQZDRDRuqQVhO6yyicw8v8%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817555620.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=DuHpNh%2F4pujcL6zRS43NbfA2%2Flp19VLjxwK2YkgEss8%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817848408.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=LePffb7bgkXTBlyh8B2O4NUbHf%2FFc0B6ML2lR8fwROY%3D" />
-  </media>
-</property>
 <property id="20261" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/302-Stanhope-St-Unit-1R-Brooklyn-NY-11237-20261">
   <location>
     <address>302 Stanhope St</address>
