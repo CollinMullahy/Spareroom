@@ -1635,6 +1635,89 @@ Guarantors welcome.</description>
     <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044636238596519.png?sv=2025-05-05&amp;se=2028-01-19T23%3A53%3A43Z&amp;sr=b&amp;sp=r&amp;sig=%2BoMnbJ32F6nR88xkaWxy%2F6dE8J4e8HBSZUvqbNyErnM%3D" />
   </media>
 </property>
+<property id="38575" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1326-Ocean-Avenue-Unit-7C-Brooklyn-NY-11230-38575">
+  <location>
+    <address>1326 Ocean Avenue</address>
+    <apartment>7C</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11230</zipcode>
+    <neighborhood>Flatbush</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3478</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jan-19-2026</availableOn>
+    <description>Welcome to 1326 Ocean Ave
+Studios ? 1-Bed ? 2-Bed Apartments in Prime Midwood / Ditmas Park
+
+Spacious, well-designed residences featuring high ceilings, large kitchens with dishwashers, and excellent closet space. Select units offer private balconies, and all layouts are designed to comfortably accommodate modern living.
+
+Apartment Features
+
+High ceilings
+
+Large kitchens
+
+Dishwasher
+
+Queen-size bedroom layouts
+
+Ample closet space
+
+Private balconies (select units)
+
+Building Amenities
+
+Gym
+
+Rooftop
+
+Lounge
+
+Game room
+
+Bike storage
+
+Laundry room
+
+Conveniently located near shops, dining, and transportation.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>RogersMGT</owner_company_name>
+    <amenities>
+      <pets />
+      <other>A/C, Balcony/Terrace, Dishwasher</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044663449318666.png?sv=2025-05-05&amp;se=2028-01-20T00%3A39%3A05Z&amp;sr=b&amp;sp=r&amp;sig=1Ah%2BKCiBdU6kpCU%2FhwEN16nedh2Rsp976tEC3YfQ61A%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664348283580.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=JoAXgEJWb3g%2BUCr23fL1POnpiSwX41FGsCT2TgV9fLk%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664215112878.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A21Z&amp;sr=b&amp;sp=r&amp;sig=SNMB63A2r%2FzZMmoxvaEJfbqJVoehaHcIwzoVTaCEDY0%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664285372084.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A28Z&amp;sr=b&amp;sp=r&amp;sig=xxY8GUoHB8TNWj7ZiLzJyAvq0lCxpkqhWTNBNqsYLVI%3D" />
+  </media>
+</property>
 <property id="12840" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/114-32-168th-Street-Unit-2nd-Queens-NY-11434-12840">
   <location>
     <address>114-32 168th Street</address>
