@@ -2307,58 +2307,6 @@ Virtual Doorman</description>
     <photo description="" position="21" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-02/1990_638120886014784895.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=c5L%2FIeoGu%2BcmaNhBOGn3%2FdEmciRMvbVdTylNryaG8vo%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" />
   </media>
 </property>
-<property id="38289" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1845-Eastern-Pkwy-Unit-2R-Brooklyn-NY-11233-38289">
-  <location>
-    <address>1845 Eastern Pkwy</address>
-    <apartment>2R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-    <neighborhood>Brownsville</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Dec-10-2025</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>kbuilders</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932696218345.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=gqP7%2B02DYySQ9KTgl7vq6M%2BEh4FxvH22SqjM3dBUgA0%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932695779463.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=QXrCyM4ZOyEQNLmkc3O0C54CFgWWxf2QmZXQLDxt4qU%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932695966139.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=UXHTGALEREI4SWek8MlJfjvR9uT6Z1tvHY9dUTKyOtw%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932696311941.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=U2opbuV96gf7oPE14La7mAm9YlPxHBbU%2BdHX0vW7aiQ%3D" />
-    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932697210275.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=Ca62%2FQOMIcITwIEYrWsT%2BcCjwivl8ssln4tTGKRiVC0%3D" />
-    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932696481931.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=ssdkSjouQ5VnLpflpDHiVO9Z02mElWVZz9uWrFZklTQ%3D" />
-    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639009932696683717.jpeg?sv=2025-05-05&amp;se=2027-12-10T19%3A54%3A29Z&amp;sr=b&amp;sp=r&amp;sig=jpcb57h6zAz4QI663S6Fw1WJYP%2FBQ6Ito6k8NSHwbek%3D" />
-  </media>
-</property>
 <property id="38526" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/186-Lenox-Rd-Unit-7a-Brooklyn-NY-11226-38526">
   <location>
     <address>186 Lenox Rd</address>
