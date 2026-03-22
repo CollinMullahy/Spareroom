@@ -6598,7 +6598,7 @@ Secure your spot in this fantastic residence today!</description>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Mar-22-2026</availableOn>
-    <description />
+    <description>Prime Jefferson L train renovated 2 bedroom apt with Renovated kitchen and bath! Please message me ASAP</description>
     <propertyType>rental</propertyType>
     <owner_company_name>cs168</owner_company_name>
     <amenities>
@@ -6619,7 +6619,12 @@ Secure your spot in this fantastic residence today!</description>
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639098105896492291.jpeg?sv=2025-05-05&amp;se=2028-03-22T21%3A09%3A49Z&amp;sr=b&amp;sp=r&amp;sig=DlMs6IH5LcLDxMQHCGLHueZiDPrHDErZ6lkvqAD9qis%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639098111446470520.jpeg?sv=2025-05-05&amp;se=2028-03-22T21%3A19%3A04Z&amp;sr=b&amp;sp=r&amp;sig=wfZ0lODc90ETqdQjbM29GBAtKFK3YcH2wjGfH5jbE%2BA%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639098111534643563.png?sv=2025-05-05&amp;se=2028-03-22T21%3A19%3A13Z&amp;sr=b&amp;sp=r&amp;sig=qf26Yk4CgjW6iNKCQGT4japhiaqakp0jVeGes5kDzcw%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639098113414401675.png?sv=2025-05-05&amp;se=2028-03-22T21%3A22%3A21Z&amp;sr=b&amp;sp=r&amp;sig=BtjFgi1VY%2BH12%2Fq3ocuiO6ia7rCBe1rC63iBAk8cZ%2BY%3D" />
+  </media>
 </property>
 <property id="38958" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1176-Nostrand-Avenue-Unit-3R-Brooklyn-NY-11225-38958">
   <location>
