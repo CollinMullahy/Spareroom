@@ -6577,6 +6577,50 @@ Secure your spot in this fantastic residence today!</description>
       </agents>
   <media />
 </property>
+<property id="39141" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/168-Onderdonk-Ave-Unit-1L-Queens-NY-11385-39141">
+  <location>
+    <address>168 Onderdonk Ave</address>
+    <apartment>1L</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+    <neighborhood>Ridgewood</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Mar-22-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>cs168</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="38958" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1176-Nostrand-Avenue-Unit-3R-Brooklyn-NY-11225-38958">
   <location>
     <address>1176 Nostrand Avenue</address>
