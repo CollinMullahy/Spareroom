@@ -130,7 +130,14 @@ Amenities include:
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415213791786.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=D7fbn4C7%2FcUxQdY00yLFGTofMpnIB9%2F8BkJ9t0%2FNvKk%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415213600192.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=HXwTFvN267cAoaGc9JQGoKitRRCpyqgpb1Zk9BpBKBQ%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415213806809.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=5tOEg4Qx8UjXwZruyb4yFE49XsTv%2FefAAgv6MFJw16Q%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415214081557.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=eFhrch9gbW45XtuAXYLdJsYashyxcMJUJ9P2x0N7aDY%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415214104309.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Ea5XvqF2ChkAyRtFxxJBsvdYog%2ByG0zv%2B65Ecp84n%2Fg%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639101415214016702.jpeg?sv=2025-05-05&amp;se=2028-03-26T17%3A05%3A21Z&amp;sr=b&amp;sp=r&amp;sig=y8Le99i76UiYcCFA4NkYkbQ%2FBf%2BO0gsu8IEFwlANZug%3D" />
+  </media>
 </property>
 <property id="39227" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2718-Church-Avenue-Unit-6j-Brooklyn-NY-11226-39227">
   <location>
