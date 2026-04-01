@@ -2670,6 +2670,55 @@ Schedule a tour today!</description>
     <photo description="" position="17" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639051302050133722.jpeg?sv=2025-05-05&amp;se=2028-01-27T17%3A03%3A25Z&amp;sr=b&amp;sp=r&amp;sig=EnKSOqmxTP6Hh%2BFVnu0xWzf2kCvM6vkGu%2F3uE1Ubatc%3D" />
   </media>
 </property>
+<property id="38960" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/484-Gates-Ave-Unit-4C-Brooklyn-NY-11216-38960">
+  <location>
+    <address>484 Gates Ave</address>
+    <apartment>4C</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+    <neighborhood>Bedford Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3100</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Mar-31-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>RogersMGT</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639083378617622518.jpeg?sv=2025-05-05&amp;se=2028-03-05T20%3A04%3A21Z&amp;sr=b&amp;sp=r&amp;sig=W6wfnXn8zLhNRhUKY8AIeCIzawZqeS6X4%2FFs7UHzaAk%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639083378694302661.jpeg?sv=2025-05-05&amp;se=2028-03-05T20%3A04%3A29Z&amp;sr=b&amp;sp=r&amp;sig=juBPl2Bl6dVRLXMwhDZV2crxM60gWIGZzAckgpPDNb0%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639083378774754483.jpeg?sv=2025-05-05&amp;se=2028-03-05T20%3A04%3A37Z&amp;sr=b&amp;sp=r&amp;sig=AVQE7JcDhC8mUpRh8mH0ASm3ueAIF4yIBpa1rE06GCY%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639083378846573972.jpeg?sv=2025-05-05&amp;se=2028-03-05T20%3A04%3A44Z&amp;sr=b&amp;sp=r&amp;sig=FCaIGtipzIgcDae89SwIW%2Bp4L0W%2BWZXRGhEwap4u9Kg%3D" />
+  </media>
+</property>
 <property id="39047" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1354-Jefferson-Avenue-Unit-2A-Brooklyn-NY-11221-39047">
   <location>
     <address>1354 Jefferson Avenue</address>
