@@ -10481,10 +10481,10 @@ Message to set up a showing.</description>
     <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968301845.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=5KJjwI3AYdysMf15p4Y5MFFu4PRn94C6alU0SOI1XqE%3D" />
   </media>
 </property>
-<property id="39057" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-3B-Brooklyn-NY-11215-39057">
+<property id="39057" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-3A-Brooklyn-NY-11215-39057">
   <location>
     <address>242 6th Street</address>
-    <apartment>3B</apartment>
+    <apartment>3A</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11215</zipcode>
@@ -10494,7 +10494,7 @@ Message to set up a showing.</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4500</price>
+    <price>4800</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -10529,6 +10529,58 @@ Message to set up a showing.</description>
     <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968951185.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=MB%2F1G5FNxcERDElccuWOLSl6y30Spf%2FjZpB0%2FqzpDo4%3D" />
     <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968278341.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=mvwyuO9Rx5CyRwAREEgXZySV5kwt%2FDo2YgV9jELqA1g%3D" />
     <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968708097.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=CD%2Fzno0Ll%2B3JxuidfwRn0rjfKZWy%2Bg3VNebwfRW2OqI%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968952213.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=gYSEJY%2BW9H%2F%2BzP1PU8ok50qBZRR%2FAVOJMMzqZOjEFH8%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968301845.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=5KJjwI3AYdysMf15p4Y5MFFu4PRn94C6alU0SOI1XqE%3D" />
+  </media>
+</property>
+<property id="39060" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-4A-Brooklyn-NY-11215-39060">
+  <location>
+    <address>242 6th Street</address>
+    <apartment>4A</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+    <neighborhood>Gowanus</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4800</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Mar-13-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>FreeHold</owner_company_name>
+    <amenities>
+      <pets>Small pets allowed</pets>
+      <other>Dishwasher, Stainless steel appliances, Washer/Dryer In Unit, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968708097.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=CD%2Fzno0Ll%2B3JxuidfwRn0rjfKZWy%2Bg3VNebwfRW2OqI%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968278341.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=mvwyuO9Rx5CyRwAREEgXZySV5kwt%2FDo2YgV9jELqA1g%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968643177.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=vaOlmLtNXJbR7v9%2FmctWhHfkaDRYKHez4MHhX5EA5vQ%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968951185.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=MB%2F1G5FNxcERDElccuWOLSl6y30Spf%2FjZpB0%2FqzpDo4%3D" />
     <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968952213.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=gYSEJY%2BW9H%2F%2BzP1PU8ok50qBZRR%2FAVOJMMzqZOjEFH8%3D" />
     <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968301845.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=5KJjwI3AYdysMf15p4Y5MFFu4PRn94C6alU0SOI1XqE%3D" />
   </media>
