@@ -10051,6 +10051,79 @@ Message to set up a showing.</description>
     <photo description="" position="11" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639127369422396742.jpeg?sv=2025-05-05&amp;se=2028-04-25T18%3A02%3A22Z&amp;sr=b&amp;sp=r&amp;sig=np8%2Bc3h1aiJkaeOVLLO8OJcGDMDhttNzDMql1RjGgqs%3D" />
   </media>
 </property>
+<property id="39790" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/250-Winthrop-Street-Unit-2B-Brooklyn-NY-11225-39790">
+  <location>
+    <address>250 Winthrop Street</address>
+    <apartment>2B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+    <neighborhood>Prospect Lefferts Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3300</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>May-20-2026</availableOn>
+    <description>Building features:
+
+?Garage Parking
+
+?Elevator
+
+?Roofdeck
+
+?Laundry
+
+?Bike room
+
+Conveniently located in between two parks! RIGHT NEXT TO 2; 5 TRAIN LINE
+
+Apartment features:
+
+?TONS of natural light
+
+?large windows
+
+?New appliances!
+
+?large living space
+
+?lots of closet space
+
+?gorgeous NYC; Brooklyn views
+
+Reach out now to view and live in this Brand New Development</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Mreman</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Hardwood Floors, Stainless steel appliances, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="39053" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-1B-Brooklyn-NY-11215-39053">
   <location>
     <address>242 6th Street</address>
