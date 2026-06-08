@@ -297,6 +297,96 @@ No fee</description>
     <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639160061889164049.jpeg?sv=2025-05-05&amp;se=2028-06-02T14%3A09%3A48Z&amp;sr=b&amp;sp=r&amp;sig=9kB0wRsZGP5rcKnctw%2Fo9b1nW9mbCS3rm39priKo5SQ%3D" />
   </media>
 </property>
+<property id="39964" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/590-Bushwick-Avenue-Unit-2-Brooklyn-NY-11206-39964">
+  <location>
+    <address>590 Bushwick Avenue</address>
+    <apartment>2</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5400</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>3</bathrooms>
+    <availableOn>Jun-02-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>PM1</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Balcony/Terrace, Dishwasher, Hardwood Floors, Stainless steel appliances, Washer/Dryer In Unit, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property id="39965" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/590-Bushwick-Avenue-Unit-3-Brooklyn-NY-11206-39965">
+  <location>
+    <address>590 Bushwick Avenue</address>
+    <apartment>3</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-02-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>PM1</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Balcony/Terrace, Dishwasher, Hardwood Floors, Stainless steel appliances, Washer/Dryer In Unit, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="39974" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/526-Baltic-Street-Unit-7e-Brooklyn-NY-11217-39974">
   <location>
     <address>526 Baltic Street</address>
