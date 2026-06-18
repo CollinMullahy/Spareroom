@@ -9390,6 +9390,94 @@ Building offers A 24HR GYM, Bike Storage, Bike Room, Laundry Room, Package Room,
     <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638840540216721992.jpeg?sv=2025-05-05&amp;se=2027-05-28T18%3A33%3A41Z&amp;sr=b&amp;sp=r&amp;sig=R8%2FkNS7JoUGKIqrmnphdlAtur3JEOuNEBtswP%2F8UcYM%3D" />
   </media>
 </property>
+<property id="30346" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346">
+  <location>
+    <address>3405 Farragut Road</address>
+    <apartment>2A</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood>Flatbush</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3800</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>4</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jul-01-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>AMI</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property id="20401" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1643-New-York-Avenue-Unit-1B-Brooklyn-NY-11210-20401">
+  <location>
+    <address>1643 New York Avenue</address>
+    <apartment>1B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood>Little Haiti</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-01-2026</availableOn>
+    <description>PRIVATE YARD</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>AMI</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="34575" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1267-Herkimer-Street-Unit-3B-Brooklyn-NY-11233-34575">
   <location>
     <address>1267 Herkimer Street</address>
@@ -9500,94 +9588,6 @@ Building offers A 24HR GYM, Bike Storage, Bike Room, Laundry Room, Package Room,
     <bathrooms>1</bathrooms>
     <availableOn>Aug-01-2026</availableOn>
     <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>AMI</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
-<property id="30346" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346">
-  <location>
-    <address>3405 Farragut Road</address>
-    <apartment>2A</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-    <neighborhood>Flatbush</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3800</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>4</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
-    <availableOn>Jul-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>AMI</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
-<property id="20401" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1643-New-York-Avenue-Unit-1B-Brooklyn-NY-11210-20401">
-  <location>
-    <address>1643 New York Avenue</address>
-    <apartment>1B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-    <neighborhood>Little Haiti</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2026</availableOn>
-    <description>PRIVATE YARD</description>
     <propertyType>rental</propertyType>
     <owner_company_name>AMI</owner_company_name>
     <amenities>
@@ -10720,6 +10720,64 @@ Contact us today to schedule a viewing and make this incredible duplex apartment
         </agent>
       </agents>
   <media />
+</property>
+<property id="40211" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/88-Schermerhorn-Street-Unit-19B-Brooklyn-NY-11201-40211">
+  <location>
+    <address>88 Schermerhorn Street</address>
+    <apartment>19B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11201</zipcode>
+    <neighborhood>Boerum Hill</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>12500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>3</bathrooms>
+    <availableOn>Jun-17-2026</availableOn>
+    <description>Welcome to Modavie, a boutique collection of 55 luxury residences designed for modern Brooklyn living.
+
+This new development offers a refined rental experience with condo-inspired finishes, thoughtfully planned amenities, and a location that puts residents close to parks, cultural attractions, neighborhood restaurants, shopping, and nightlife. Modavie brings comfort, style, and convenience together in one of Brooklyn?s most desirable areas.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Waterstone Mgmt</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Washer/Dryer In Unit, Private Outdoor Space, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411896565.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Q0Ljznm%2B6mUTnVjTm0ukKnDzBYcne%2FPPc9b5UHXh%2FbM%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411916101.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=iA0PIWPxklE2v4lQ18cjEcTQvEtArIEai1RbHX%2Bcoh0%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412890512.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=RQfpuxohjAS9lcfDUXObSWyHH7hJdx9ugBTBLYqjA0U%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410399800.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=CtQa4QOAUbBZVkDphVF0dgBSjN6qJ0h%2B0T%2FkmLpomNs%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411810316.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=9ZXzCqDh%2BU6fz4khaMEuyPCgd8BK%2FSIZxT1d6OrfbS0%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412652776.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Z0kCr8bFSs22ZJe7rUWCuI1TQw4F9Q4Xa6VN7xPhMo0%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410741148.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=jBDHn9LCK41E4S7RePf6yMxNhjvuJ94uWuIUkIVbgoM%3D" />
+    <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412545410.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=%2FNNj9PwNOUQm122NMzkxnOZSukaQol5Z8BddjwvFKwo%3D" />
+    <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410475995.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=z7KLdGV7TYDtAI4NWuBOaJrvVxDT2%2BeaMOHkqLWwYmw%3D" />
+    <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383414826553.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=hlLtJ9nwJzGa1ETTdUBc6m9F5tgB%2By%2BMPT9sq5oGg94%3D" />
+  </media>
 </property>
 <property id="40204" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/88-Schermerhorn-Street-Unit-3a-Brooklyn-NY-11201-40204">
   <location>
