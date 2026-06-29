@@ -8727,6 +8727,50 @@ Experience a lifestyle where convenience meets comfort at 2913 Snyder Avenue.</d
     <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638840540216721992.jpeg?sv=2025-05-05&amp;se=2027-05-28T18%3A33%3A41Z&amp;sr=b&amp;sp=r&amp;sig=R8%2FkNS7JoUGKIqrmnphdlAtur3JEOuNEBtswP%2F8UcYM%3D" />
   </media>
 </property>
+<property id="40316" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1935-Bergen-Street-Unit-1-Brooklyn-NY-11233-40316">
+  <location>
+    <address>1935 Bergen Street</address>
+    <apartment>1</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-29-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Green Eye</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="30346" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346">
   <location>
     <address>3405 Farragut Road</address>
