@@ -668,65 +668,6 @@ Schedule a tour and make this Bushwick gem yours!</description>
       </agents>
   <media />
 </property>
-<property id="40390" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2324-Bedford-Avenue-Unit-2C-Brooklyn-NY-11226-40390">
-  <location>
-    <address>2324 Bedford Avenue</address>
-    <apartment>2C</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11226</zipcode>
-    <neighborhood>Flatbush</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3200</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jun-30-2026</availableOn>
-    <description>Experience the best of Flatbush in this sleek, brand-new building. Enjoy modern amenities and a prime location.
-
-*Building Features:*
-
-- Laundry facilities in building
-- Central air for comfort
-- Hardwood floors throughout
-- Dishwasher in every unit
-
-*Neighborhood:*
-
-- Trendy restaurants and shops nearby
-- Easy access to public transportation and Manhattan
-
-Schedule a tour and make 2324 Bedford Ave your home!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>Garbo</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Hardwood Floors, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property id="40392" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2324-Bedford-Avenue-Unit-3D-Brooklyn-NY-11226-40392">
   <location>
     <address>2324 Bedford Avenue</address>
