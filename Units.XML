@@ -505,51 +505,6 @@ Schedule a tour today and make this Williamsburg gem yours!</description>
       </agents>
   <media />
 </property>
-<property id="40380" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/758-Putnam-Ave-Unit-3-Brooklyn-NY-11221-40380">
-  <location>
-    <address>758 Putnam Ave</address>
-    <apartment>3</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Stuyvesant Heights</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4400</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Garbo</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C, Above "8" ceilings, Dishwasher, Hardwood Floors</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property id="40381" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/217-South-4th-Street-Unit-3B-Brooklyn-NY-11211-40381">
   <location>
     <address>217 South 4th Street</address>
@@ -970,6 +925,65 @@ Schedule a tour and make this Bushwick gem yours!</description>
       </agents>
   <media />
 </property>
+<property id="40390" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2324-Bedford-Avenue-Unit-2C-Brooklyn-NY-11226-40390">
+  <location>
+    <address>2324 Bedford Avenue</address>
+    <apartment>2C</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+    <neighborhood>Flatbush</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-30-2026</availableOn>
+    <description>Experience the best of Flatbush in this sleek, brand-new building. Enjoy modern amenities and a prime location.
+
+*Building Features:*
+
+- Laundry facilities in building
+- Central air for comfort
+- Hardwood floors throughout
+- Dishwasher in every unit
+
+*Neighborhood:*
+
+- Trendy restaurants and shops nearby
+- Easy access to public transportation and Manhattan
+
+Schedule a tour and make 2324 Bedford Ave your home!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Garbo</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Dishwasher, Hardwood Floors, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="40392" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2324-Bedford-Avenue-Unit-3D-Brooklyn-NY-11226-40392">
   <location>
     <address>2324 Bedford Avenue</address>
@@ -1029,48 +1043,33 @@ Schedule a tour and make 2324 Bedford Ave your home!</description>
       </agents>
   <media />
 </property>
-<property id="40377" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/771-Lexington-Ave-Unit-3F-Brooklyn-NY-11221-40377">
+<property id="40474" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2324-Bedford-Avenue-Unit-1B-Brooklyn-NY-11226-40474">
   <location>
-    <address>771 Lexington Ave</address>
-    <apartment>3F</apartment>
+    <address>2324 Bedford Avenue</address>
+    <apartment>1B</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bedford Stuyvesant</neighborhood>
+    <zipcode>11226</zipcode>
+    <neighborhood>Flatbush</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3700</price>
+    <price>3400</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
+    <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Jun-30-2026</availableOn>
-    <description>This stunning 3-bedroom, 1-bathroom apartment is a rare find in the heart of Bushwick/Bed-Stuy. Perfect for families, roommates, or professionals seeking ample space and comfort.
-
-*Apartment Features:*
-
-- 3 spacious bedrooms
-- 1 modern bathroom
-- Abundant natural light
-- Ideal for those seeking a cozy and convenient home
-
-*Neighborhood:*
-
-- Trendy restaurants, bars, and shops in Bushwick and Bed-Stuy
-- Easy access to public transportation and Manhattan
-- Vibrant community with plenty of parks and cultural attractions
-
-Schedule a tour today and make this apartment your home!</description>
+    <availableOn>Jul-07-2026</availableOn>
+    <description />
     <propertyType>rental</propertyType>
     <owner_company_name>Garbo</owner_company_name>
     <amenities>
       <pets />
-      <other>A/C, Above "8" ceilings, Dishwasher, Roof Access</other>
+      <other>Dishwasher, Hardwood Floors, Central A/C</other>
     </amenities>
   </details>
 <agents>
@@ -3148,57 +3147,6 @@ Don?t miss out on this mix of modern amenities and classic charm in one of Brook
     <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686700025685.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
   </media>
 </property>
-<property id="40405" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/170-Harman-St-Unit-1R-Brooklyn-NY-11221-40405">
-  <location>
-    <address>170 Harman St</address>
-    <apartment>1R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3350</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1.5</bathrooms>
-    <availableOn>Aug-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>RogersMGT</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160291003259.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=lCVHeU1U7fgxDmSQau%2FyVZwixJrS8vmwYe8Cqya3Tpg%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160290036186.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=Sjxey00gI%2FWWsE63A4rE5Qonz6xcet14CaOsHqXA55U%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292165927.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=IWHXVM0Mx17WQsMU6X0IQlvffXLQShDiEh3Dsg%2FLONQ%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289848948.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=O5NFkSjdCl2SEBmkXPGGiL0dWrWBBMVPciKHHAzBZsE%3D" />
-    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289489065.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=jONOA0GUAhCo%2BQm8IEFdEBzIFzfpU85wzo%2Fg9Csetgk%3D" />
-    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292906520.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=YPMJ5hUg2w5SOMoOvKs0Bk%2BQvnMhIl9W4GXyT2W3Xdk%3D" />
-  </media>
-</property>
 <property id="40435" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1800-Ocean-Ave-Unit-6D-Brooklyn-NY-11230-40435">
   <location>
     <address>1800 Ocean Ave</address>
@@ -3357,6 +3305,57 @@ Don?t miss out on this mix of modern amenities and classic charm in one of Brook
     <photo description="" position="12" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639179026216333884.jpeg?sv=2025-05-05&amp;se=2028-06-24T12%3A57%3A01Z&amp;sr=b&amp;sp=r&amp;sig=PwFS7zEHVCXT2U2u1B%2FCI5nlvgxCY7vaKg8HqwKWaf4%3D" />
     <photo description="" position="13" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639179026216460225.jpeg?sv=2025-05-05&amp;se=2028-06-24T12%3A57%3A01Z&amp;sr=b&amp;sp=r&amp;sig=6B9uPQRTwFgwovuL245905lA5mGKU4FoNzpIPbOH0Eg%3D" />
     <photo description="" position="14" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639179026215840193.jpeg?sv=2025-05-05&amp;se=2028-06-24T12%3A57%3A01Z&amp;sr=b&amp;sp=r&amp;sig=2R1fZfOl2f9yfR%2FStd7A1iPfQjidFfEs8RPAsjn1MBM%3D" />
+  </media>
+</property>
+<property id="40405" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/170-Harman-St-Unit-1R-Brooklyn-NY-11221-40405">
+  <location>
+    <address>170 Harman St</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3350</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1.5</bathrooms>
+    <availableOn>Aug-01-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>RogersMGT</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160291003259.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=lCVHeU1U7fgxDmSQau%2FyVZwixJrS8vmwYe8Cqya3Tpg%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160290036186.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=Sjxey00gI%2FWWsE63A4rE5Qonz6xcet14CaOsHqXA55U%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292165927.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=IWHXVM0Mx17WQsMU6X0IQlvffXLQShDiEh3Dsg%2FLONQ%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289848948.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=O5NFkSjdCl2SEBmkXPGGiL0dWrWBBMVPciKHHAzBZsE%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289489065.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=jONOA0GUAhCo%2BQm8IEFdEBzIFzfpU85wzo%2Fg9Csetgk%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292906520.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=YPMJ5hUg2w5SOMoOvKs0Bk%2BQvnMhIl9W4GXyT2W3Xdk%3D" />
   </media>
 </property>
 <property id="40439" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1193-Nostrand-Avenue-Unit-4A-Brooklyn-NY-11225-40439">
@@ -9762,59 +9761,6 @@ Great Bushwick location with easy access to parks, nightlife, restaurants, cafes
     <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639123064893621154.jpeg?sv=2025-05-05&amp;se=2028-04-20T18%3A28%3A09Z&amp;sr=b&amp;sp=r&amp;sig=bCFkhYs3RaPVvK2PhdGYMikU5aATE%2FLhj%2FcyBC%2Bj40w%3D" />
     <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639123064894261890.jpeg?sv=2025-05-05&amp;se=2028-04-20T18%3A28%3A09Z&amp;sr=b&amp;sp=r&amp;sig=uGPjg6Ef1IRkkRgQ%2BYh7sjRFaF0MxWimA7Cv%2FBg7uT8%3D" />
   </media>
-</property>
-<property id="40196" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/316-Patchen-Ave-Unit-3B-Brooklyn-NY-11233-40196">
-  <location>
-    <address>316 Patchen Ave</address>
-    <apartment>3B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-    <neighborhood>Stuyvesant Heights</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2900</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2026</availableOn>
-    <description>Welcome to 316 Patchen Avenue, a boutique Brooklyn residence nestled on a charming tree-lined block in the heart of Bedford-Stuyvesant.
-
-Offering the perfect blend of neighborhood character and city convenience, this thoughtfully maintained building places residents in one of Brooklyn?s most beloved communities. Surrounded by beautiful brownstones, local cafes, restaurants, parks, and neighborhood favorites, you?ll enjoy the vibrant atmosphere that has made Bed-Stuy one of New York City?s most desirable places to call home.
-
-Whether you?re grabbing coffee from a nearby caf?, enjoying dinner at a local restaurant, or exploring the neighborhood?s rich history and culture, everything you need is just moments away. Convenient access to public transportation makes commuting throughout Brooklyn and Manhattan simple and efficient.
-
-316 Patchen Avenue offers residents the opportunity to experience authentic Brooklyn living while enjoying the convenience of a well-positioned home in a thriving neighborhood.
-
-Experience the best of Bed-Stuy at 316 Patchen Avenue.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>Elmord</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
 </property>
 <property id="40197" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/316-Patchen-Ave-Unit-3A-Brooklyn-NY-11233-40197">
   <location>
