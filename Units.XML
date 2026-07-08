@@ -3285,59 +3285,6 @@ Schedule now to view!</description>
       </agents>
   <media />
 </property>
-<property id="40441" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/462-Pulaski-St-Unit-4B-Brooklyn-NY-11221-40441">
-  <location>
-    <address>462 Pulaski St</address>
-    <apartment>4B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bedford Stuyvesant</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3594</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>4</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1.5</bathrooms>
-    <availableOn>Aug-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>RogersMGT</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329647112551.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=dq%2BIWv3OBKL3czN27T5tBE%2BtS3Lgmcp6C%2FtyL3JjkOo%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329646613561.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=PDFml4R7cWs%2FpeDiuUyyEW3t5wSSyoo5nhzW1KsmU4o%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329647103268.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=Wd1olMBx1RnZMEGHurhAKNER92rH4DXvvn0j6avvedo%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329646492484.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=IK0c1ImHT2487N6oYjslriXxJZFEYb3J0HdRTV7Vt4s%3D" />
-    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329646612112.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=2RH7XDDWuGkwHcHjGrCsyWKG7RL0r1z7SkWjwheeJp4%3D" />
-    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329647403793.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=6YZcJ97SIuZEtncO29wx757V5b2qgPZ4u9DAVK0p5FA%3D" />
-    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329647239034.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=k1R%2FnkHu8F9YRfa4fbnDuF1s2CJcCbmnjLNeR47fNxY%3D" />
-    <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639159329646559531.jpeg?sv=2025-05-05&amp;se=2028-06-01T17%3A49%3A24Z&amp;sr=b&amp;sp=r&amp;sig=DVqJhokXiwRhqc4dfmFUE0CFawotNGhmsTax8otQxko%3D" />
-  </media>
-</property>
 <property id="40443" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/456-Madison-St-Unit-1L-Brooklyn-NY-11221-40443">
   <location>
     <address>456 Madison St</address>
@@ -5369,7 +5316,7 @@ No broker fee ? Schedule a tour today!</description>
     <bedrooms>2.5</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Aug-01-2026</availableOn>
+    <availableOn>Jul-08-2026</availableOn>
     <description>MASSIVE TRUE 2 BEDROOM PLUS BASEMENT
 
 - 2 huge bedrooms (on opposite sides)
