@@ -400,7 +400,15 @@ No broker fee</description>
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361358461.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=yjYrJpDyYwxjgzdzRohtmCc%2BnBpHoS2ALPwTgptzFDg%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258362047907.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=noXqMf1ektfHU%2FOAHpYJG3RcpMswRpB119vXIBgMjkU%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361907261.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=tzU1sbJPFbHqnoALkzy0lw%2FtX0LmYRnsjJ5YxHXnXFQ%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361408973.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=HYWVRiZSoTiJKPrCbII4JCmr3zqStqR111kLJ4kPu0Q%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361356708.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=KT9CAgpYX2ev1l5%2B3Xb2KyRAbquLnb7HTAXrZ9J5HIU%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361857466.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=mblHcgzTll8cgOJhmKwiszkerD5Sirx8HXtEtCd8iGY%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258362448846.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=uFSlGyHHklfw8T%2BNhFHDQ8ARALdo9Zb44RZhmJ97caM%3D" />
+  </media>
 </property>
 <property id="13464" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/594-Bushwick-Ave-Unit-406-Brooklyn-NY-11206-13464">
   <location>
@@ -10900,6 +10908,50 @@ Email us to set up a time to see this amazing unit!</description>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Jul-01-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Halby</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property id="40532" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/155-Smith-Street-Unit-1B-Brooklyn-NY-11201-40532">
+  <location>
+    <address>155 Smith Street</address>
+    <apartment>1B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11201</zipcode>
+    <neighborhood>Boerum Hill</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>6800</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jul-09-2026</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>Halby</owner_company_name>
