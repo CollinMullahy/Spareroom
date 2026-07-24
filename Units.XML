@@ -470,66 +470,6 @@ Schedule a tour and make this Williamsburg hotspot yours!</description>
     <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639190542183594067.jpeg?sv=2025-05-05&amp;se=2028-07-07T20%3A50%3A18Z&amp;sr=b&amp;sp=r&amp;sig=gd1nt6En9LzqqYLT%2BaRSA1quXc5qQMlt4PAEH3f0qmU%3D" />
   </media>
 </property>
-<property id="40383" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/217-South-4th-Street-Unit-2A-Brooklyn-NY-11211-40383">
-  <location>
-    <address>217 South 4th Street</address>
-    <apartment>2A</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4800</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Aug-01-2026</availableOn>
-    <description>Live in the heart of Williamsburg's vibrant neighborhood with this cool 2-bedroom, 1-bathroom apartment.
-
-*Apartment Features:*
-
-- 2 spacious bedrooms
-- 1 modern bathroom
-- Bright and airy interior
-- Perfect for creatives or professionals
-
-*Neighborhood:*
-
-- Iconic Williamsburg restaurants, bars, and shops nearby
-- Easy access to public transportation and Manhattan
-- Thriving arts and culture scene
-
-Schedule a tour and make this Williamsburg hotspot yours!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>Garbo</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C, Dishwasher, Hardwood Floors, Washer/Dryer In Unit</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property id="40384" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/217-South-4th-Street-Unit-3A-Brooklyn-NY-11211-40384">
   <location>
     <address>217 South 4th Street</address>
@@ -750,51 +690,6 @@ Schedule a tour and make 2324 Bedford Ave your home!</description>
     <amenities>
       <pets />
       <other>Dishwasher, Hardwood Floors, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
-<property id="40651" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/771-Lexington-Ave-Unit-2F-Brooklyn-NY-11221-40651">
-  <location>
-    <address>771 Lexington Ave</address>
-    <apartment>2F</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bedford Stuyvesant</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3800</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Garbo</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Central A/C</other>
     </amenities>
   </details>
 <agents>
@@ -5493,7 +5388,7 @@ Call or text to schedule a viewing! Thanks! :)</description>
     <utilities>No Utils Included</utilities>
     <bedrooms>4</bedrooms>
     <totalrooms>6</totalrooms>
-    <bathrooms>1.5</bathrooms>
+    <bathrooms>1</bathrooms>
     <availableOn>Aug-15-2026</availableOn>
     <description>This Ridgewood neighborhood backs right up to Bushwick, serving as it's older and wiser sibling. You can enjoy all of the same delicious cuisine, fair trade hot (and necessary) coffee, unique locally owned businesses, bodegas and grocers, and centralized transportation as it's neighboring Brooklyn areas. 
 
