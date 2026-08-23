@@ -174,51 +174,6 @@ Available 9/1/2026</description>
       </agents>
   <media />
 </property>
-<property id="40820" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/141-Meserole-Street-Unit-4B-Brooklyn-NY-11206-40820">
-  <location>
-    <address>141 Meserole Street</address>
-    <apartment>4B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Southside</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>5000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Garbo</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property id="40977" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/558-Kosciuszko-St-Unit-3L-Brooklyn-NY-11221-40977">
   <location>
     <address>558 Kosciuszko St</address>
