@@ -7580,51 +7580,6 @@ No fee! Pets ok! Reach out today!</description>
     <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639183568182040976.jpeg?sv=2025-05-05&amp;se=2028-06-29T19%3A06%3A58Z&amp;sr=b&amp;sp=r&amp;sig=lzeOHe5LpUHDRWMg6a9M0ou5tagMLv87fZq1eg6Ggwc%3D" />
   </media>
 </property>
-<property id="40822" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/850-Flushing-Avenue-Unit-2R-Brooklyn-NY-11206-40822">
-  <location>
-    <address>850 Flushing Avenue</address>
-    <apartment>2R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2026</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Green Eye</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-      <other>Dishwasher, Hardwood Floors, Private Outdoor Space, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property id="40860" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/92-Manhattan-Avenue-Unit-1B-Brooklyn-NY-11206-40860">
   <location>
     <address>92 Manhattan Avenue</address>
